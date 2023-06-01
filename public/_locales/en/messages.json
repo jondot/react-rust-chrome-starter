@@ -1,0 +1,6 @@
+{
+  "appName": { "message": "Chrome extension ts" },
+  "appDescription": {
+    "message": "create chrome extension with Typescript , React , Vite and Crxjs"
+  }
+}
